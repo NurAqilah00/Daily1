@@ -12,6 +12,7 @@
     <title>Registration</title>
 </head>
 <body class="font-bold text-xs">
+    <p>Testing Github</p>
     <div class="container mx-auto bg-center bg-contain" style="background-image: url('{{ asset('img/bg.png') }}')">
         <div class="pt-7 flex justify-center">
             <img class="w-36 hover:animate-bounce" src="{{ asset('img/logo-1.svg')}}" alt="/">
